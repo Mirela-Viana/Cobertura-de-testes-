@@ -1,4 +1,5 @@
 import Form from "./components/Form";
+
 import "./styles/global.css";
 import "./App.css";
 import Tasks from "./components/Tasks";
@@ -52,5 +53,3 @@ function App() {
 }
 
 export default App;
-
-//Modificar código
